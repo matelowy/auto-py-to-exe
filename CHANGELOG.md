@@ -1,5 +1,36 @@
 # Changelog
 
+## 2.43.3
+
+🐛 Bug Fixes
+
+- [#475](https://github.com/brentvollebregt/auto-py-to-exe/issues/475): Fix warning text colour in dark mode
+
+## 2.43.2
+
+🐛 Bug Fixes
+
+- [#473](https://github.com/brentvollebregt/auto-py-to-exe/issues/473): Stop freezing when selecting files/folders on macOS
+
+## 2.43.1
+
+🐛 Bug Fixes
+
+- [#472](https://github.com/brentvollebregt/auto-py-to-exe/issues/472): Fixed missing `requests` dependency when installing
+
+## 2.43.0
+
+🚀 Enhancements
+
+- [#469](https://github.com/brentvollebregt/auto-py-to-exe/pull/469): Notify users of new PyInstaller versions
+- [#464](https://github.com/brentvollebregt/auto-py-to-exe/pull/464): Added Hindi translations
+- Notify users of new auto-py-to-exe versions
+
+🏆 Contributors
+
+- [Mehmet Cagri Aksoy](https://github.com/mcagriaksoy)
+- [Triach Rold](https://github.com/triach-rold)
+
 ## 2.42.0
 
 🚀 Enhancements
